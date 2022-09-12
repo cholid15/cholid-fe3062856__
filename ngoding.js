@@ -1,1 +1,2 @@
-console.log('Update Branch Master');
+console.log('Hello Git');
+console.log('update branch new-feature');
